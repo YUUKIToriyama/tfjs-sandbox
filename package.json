@@ -1,0 +1,25 @@
+{
+  "name": "tfjs-sandbox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUUKIToriyama/tfjs-sandbox.git"
+  },
+  "keywords": [
+    "tensorflow"
+  ],
+  "author": "YUUKIToriyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YUUKIToriyama/tfjs-sandbox/issues"
+  },
+  "homepage": "https://github.com/YUUKIToriyama/tfjs-sandbox#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.4.0"
+  }
+}
